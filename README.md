@@ -11,7 +11,7 @@ and I had been meaning to pick up some python.
 Usage
 =====
 
-sync-oscd-manpages.py -f <file> -m <man pages> -u 
+sync-oscd-manpages.py -f &lt;file&gt; -m &lt;man-pages&gt; -u 
 
 Arguments
 ---------
